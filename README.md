@@ -1,2 +1,2 @@
 # emma-portfolio
-### website : https://nina-mir.github.io/emma-portfolio/
+### website : https://emmalusich.github.io/portfolio/
