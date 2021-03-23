@@ -1,2 +1,2 @@
 # emma-portfolio
-### website : https://emmalusich.github.io/portfolio/
+### website : https://emmalusich.github.io/quasipsudocomic/
